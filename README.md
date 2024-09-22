@@ -2,6 +2,8 @@ This program parses info from https://hamqsl.com/ all solar information is provi
 
 SWX.py is a terminal program
 
+swx2.py is a terminal program like SWX.py, but offers more formatting and some summary at the bottom. 
+
 swxv4.py is a gui program
 
 you can make them executeable by 
