@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#created by chengmania, KC3SMW, for free use, on a Tuesday in September 2024
+
 
 import requests
 import xml.etree.ElementTree as ET
